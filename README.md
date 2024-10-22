@@ -5,7 +5,7 @@ Proyecto de Cancelación CFDI
 
 ## Requerimientos
 
-* [Delphi 12 Community Edition] (https://www.embarcadero.com/products/delphi/starter)
+* Delphi 12 Community Edition https://www.embarcadero.com/products/delphi/starter
 * Certificados CSD (.CER y .KEY)
 * Contraseña de certificados
 * Archivo XML a cancelar
